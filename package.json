@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "Chris Price"
+  },
+  "name": "yamljs-front-matter",
+  "description": "yaml front matter for JS using the js-yaml module",
+  "version": "1.0.0",
+  "main": "lib/yamljs-front-matter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisprice/yamljs-front-matter"
+  },
+  "dependencies": {
+    "yamljs": "~0.1.4"
+  },
+  "engines": {
+    "node": ">=0.8.x",
+    "npm": "1.1.x"
+  }
+}
